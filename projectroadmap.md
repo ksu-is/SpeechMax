@@ -26,3 +26,5 @@ Then you need to download the data:
 <img width="874" height="428" alt="image" src="https://github.com/user-attachments/assets/1d21b00a-a187-43c5-8c49-3ecbd5343c55" />
 
 (9:25 PM) While it's training I was looking into how I can get my sound to play when it detects the wake word, and it looks like we will be using whats called "playsound" 
+
+(9:59 PM) IT WORKS!!! Albeit a littttttle finicky. It has trouble detecting the "like", most likely due to it not having enough training, and it did sound a little wierd when I spelled out "laiik". It was the best I could get for it to sound like the word as "like" wasn't sounding right. I am proud I got this working for now though.
