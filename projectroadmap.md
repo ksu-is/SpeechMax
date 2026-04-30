@@ -24,3 +24,5 @@ Then you need to download the data:
 
 (9:10 PM) It's now training the model:
 <img width="874" height="428" alt="image" src="https://github.com/user-attachments/assets/1d21b00a-a187-43c5-8c49-3ecbd5343c55" />
+
+(9:25 PM) While it's training I was looking into how I can get my sound to play when it detects the wake word, and it looks like we will be using whats called "playsound" 
