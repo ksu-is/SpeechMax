@@ -8,4 +8,4 @@ This project is made possible with openWakeWord: https://github.com/dscripka/ope
 
 ```pip install playsound==1.2.2```
 
-```pip install openwakeword playsound==1.2.2```
+```pip install openwakeword playsound==1.2.2 pyaudio numpy```
